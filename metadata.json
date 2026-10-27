@@ -1,0 +1,6 @@
+{
+  "name": "직무연수 이수증 자동 취합 시스템",
+  "description": "학교 및 교육기관을 위한 무로그인 직무연수 이수증 제출 및 구글 드라이브·스프레드시트 자동 취합 관리 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
